@@ -1,10 +1,10 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <h1>Hello, I'm Alaa Muhammed Ali 👋🏼</h1>
-    <p>Profile views | 429</p>
+  
   </div>
   <div>
-    <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQwMGM2bGZrNzhnM2k2OXlxdHJlMjdkZTl1aTN2bjlkZm9xZjVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif]" alt="My GIF" width="100" />
+   ![My Photo](./v/photo.png)
   </div>
 </div>
 
