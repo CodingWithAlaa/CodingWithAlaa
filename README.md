@@ -1,4 +1,12 @@
-# Hello, I'm Alaa Muhammed Ali👋🏼<br><br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h1>Hello, I'm Alaa Muhammed Ali 👋🏼</h1>
+    <p>Profile views | 429</p>
+  </div>
+  <div>
+    <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQwMGM2bGZrNzhnM2k2OXlxdHJlMjdkZTl1aTN2bjlkZm9xZjVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif]" alt="My GIF" width="100" />
+  </div>
+</div>
 
 An ambitious Data Analyst based in Beni-suef, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!<br><br>
 🌟 Current Focus: I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br><br>🛠️ Skills: Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>🌍 Interests: Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>📊 Current Projects: Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br><br>
