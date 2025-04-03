@@ -1,6 +1,6 @@
 ## Hello, I'm Alaa Muhammed Ali 👋🏼
 
-An ambitious Data Analyst based in Beni-suef, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!<br><br>
+An ambitious Data Scientist based in Cairo, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!<br><br>
 🌟 Current Focus: I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br><br>🛠️ Skills: Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>🌍 Interests: Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>📊 Current Projects: Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br><br>
 
 # 💻 Tech Stack:
